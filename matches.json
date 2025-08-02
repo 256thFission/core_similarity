@@ -1,0 +1,58 @@
+{
+  "matches": [
+    {
+      "set_a": "core_13_image.png",
+      "set_b": "core_01_image.png",
+      "cosine_distance": 0.3273952007293701
+    },
+    {
+      "set_a": "core_11_image.png",
+      "set_b": "core_02_image.png",
+      "cosine_distance": 0.3668212294578552
+    },
+    {
+      "set_a": "core_01_image.png",
+      "set_b": "core_03_image.png",
+      "cosine_distance": 0.22139114141464233
+    },
+    {
+      "set_a": "core_04_image.png",
+      "set_b": "core_04_image.png",
+      "cosine_distance": 0.30985701084136963
+    },
+    {
+      "set_a": "core_19_image.png",
+      "set_b": "core_05_image.png",
+      "cosine_distance": 0.28360313177108765
+    },
+    {
+      "set_a": "core_04_image.png",
+      "set_b": "core_06_image.png",
+      "cosine_distance": 0.3496577739715576
+    },
+    {
+      "set_a": "core_07_image.png",
+      "set_b": "core_07_image.png",
+      "cosine_distance": 0.3110959529876709
+    },
+    {
+      "set_a": "core_13_image.png",
+      "set_b": "core_08_image.png",
+      "cosine_distance": 0.31409889459609985
+    },
+    {
+      "set_a": "core_04_image.png",
+      "set_b": "core_09_image.png",
+      "cosine_distance": 0.3989712595939636
+    }
+  ],
+  "summary": {
+    "set_a_count": 19,
+    "set_b_count": 9,
+    "successful_matches": 9,
+    "average_distance": 0.3203212883737352,
+    "min_distance": 0.22139114141464233,
+    "max_distance": 0.3989712595939636,
+    "std_distance": 0.047874204629591265
+  }
+}

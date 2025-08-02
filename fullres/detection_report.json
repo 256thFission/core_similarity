@@ -1,0 +1,14 @@
+{
+  "input_path": "/cwork/pyl10/projects/tatalab/work/inputs/tissue_dapi_fullres.tif",
+  "processing_time": "0:00:53.068114",
+  "total_detected": 19,
+  "filtered_cores": 19,
+  "expected_cores": 20,
+  "detection_rate": "95.0%",
+  "individual_cores_cropped": 19,
+  "output_directory": "fullres",
+  "overlay_image": "fullres/detection_overlay.png",
+  "cores_filtered_directory": "fullres/tissue_dapi_fullres_processed/cores_filtered",
+  "cores_raw_directory": "fullres/tissue_dapi_fullres_processed/cores_raw",
+  "masks_directory": "fullres/tissue_dapi_fullres_processed/masks"
+}
